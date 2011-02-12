@@ -1,0 +1,39 @@
+﻿body 
+{
+    font-family:Courier New;
+}
+a
+{
+    color:#000000;
+    text-decoration:none;
+}
+a:hover
+{
+    text-decoration:underline;
+}
+
+.comment 
+{
+    color:#3A8000;
+    
+}
+
+.keyword 
+{
+    color:#0000FF;
+}
+
+.class 
+{
+    color:#2B91AF;
+}
+
+.string 
+{
+    color:#A31545;
+}
+
+.indent 
+{
+    padding-left:40px;
+}
